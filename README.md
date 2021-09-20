@@ -6,7 +6,7 @@ This event will not be recorded due to the wide audience and to encourage questi
 
 **Questions?** Feel free to type them in the chat window at any time. Note that questions you post will be public.
 
-**Slideless** No PowerPoint, we promise! As we update this content (http://aka.ms/fta-cost-management) you will get the changes straight away.
+**Slideless** No PowerPoint, we promise! As we update this content [https://aka.ms/fta-cost-management](http://aka.ms/fta-cost-management) you will get the changes straight away.
 
 Please give us your feedback on https://aka.ms/ftalive-feedback
 
