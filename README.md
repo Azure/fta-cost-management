@@ -1,3 +1,7 @@
+# IMPORTANT
+
+With the disbanding of the FTA organization within Microsoft, this repository is being archived and will no longer be maintained.
+
 # Welcome to the FastTrack for Azure Cost Management 1:M FTA Live
 
 ## We will start 1-2 minutes after the scheduled time to accommodate those still connecting
